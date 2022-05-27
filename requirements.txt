@@ -1,0 +1,12 @@
+gdown
+matplotlib
+numpy
+scikit-build
+seaborn
+opencv-python
+torch
+torchvision
+torchaudio
+tqdm
+black
+isort
